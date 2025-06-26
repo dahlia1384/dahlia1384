@@ -10,6 +10,7 @@ Welcome to my GitHub profile. I'm a BASc Computer Engineering student at UBC wit
   - Machine learning and artificial intelligence  
   - Embedded systems and software engineering
   - Neural Networks and Deep Learning
+  - Web Programming (Frontend code development in HTML, CSS, Python , & JavaScript)
 - Proficient in:
   C, C++, C#, HTML, CSS, MATLAB, TypeScript
 - Currently expanding skills in:
