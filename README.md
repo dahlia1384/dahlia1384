@@ -1,3 +1,11 @@
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+@+UBC;Machine+Learning+%7C+Numerical+Methods;Embedded+Systems+%7C+Algorithms;Open+Source+Contributor&center=true&width=550&height=50&font=Fira%20Code&pause=1000">
+
+**Computer Engineering Student @ UBC**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahlia-mohammadi-5380762a9/) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadi.dahlia@gmail.com)
 <h1 align="center">Hi, I'm Dahlia Mohammadi</h1>
 <p align="center">
 BASc Computer Engineering Student @ UBC <br/>
@@ -13,46 +21,68 @@ I am particularly interested in how numerical methods, optimization, and machine
 
 ---
 
-## Skills & Tools
+</div>
 
-**Languages & Frameworks**  
-- Proficient: C, C++, C#, MATLAB, HTML, CSS, TypeScript  
-- Growing expertise: Java, JavaScript, Python, Verilog, R, Assembly  
-- Special Focus: Neural Networks, Deep Learning, and Algorithm Design  
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dahlia1384&theme=default&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### Featured Projects
+
+#### **[Numerical Methods Toolkit](#)**
+A collection of algorithms for root finding, ODE solving, and linear algebra. Implemented in C++ and Python for high-performance scientific computing.
+
+#### **[Algorithm Playground](#)**
+Interactive visualizations of sorting, graph traversal, and complexity analysis. Built with TypeScript and React.
+
+#### **[Microcontroller Vision Classifier](#)**
+Lightweight CNN model running on ARM-based microcontrollers using CMSIS-NN. Demonstrates AI on constrained hardware.
+
+#### **[IoT Sensor System](#)**
+Embedded system for real-time data acquisition and wireless monitoring. Developed with C and Verilog.
+
+---
+
+### Technical Skills
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-008080?style=flat-square&logo=verilog&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat-square&logo=intel&logoColor=white)
 
 **Tools & Platforms**  
-- Git · GitHub · Linux/Unix · VS Code · MATLAB/Simulink · Quartus · Arduino  
+Git · GitHub · Linux/Unix · VS Code · MATLAB/Simulink · Quartus · Arduino · FPGA · SolidWorks
 
 ---
 
-## Current Focus
-- Deepening knowledge in numerical algorithms and scientific computing  
-- Building projects in machine learning and embedded systems  
-- Exploring AI-powered applications and web-based interactive tools  
-- Practicing Verilog and hardware description languages for digital systems  
+### Research & Interests
+- **Numerical Methods & Algorithms**: Optimization, root finding, ODE/PDE solvers  
+- **Machine Learning & AI**: Neural networks, deep learning, algorithmic applications  
+- **Embedded Systems & IoT**: Real-time programming, microcontroller integration, Verilog-based design  
+- **Hardware-Software Integration**: Bridging low-level systems with high-level applications  
 
 ---
 
-## Selected Projects
-- **[Numerical Methods Toolkit](#)** — Root finding, ODE solvers, and matrix operations (C++ / Python)  
-- **[Microcontroller Vision Classifier](#)** — Lightweight CNN implementation on an ARM-based MCU (C / CMSIS-NN)  
-- **[Algorithm Playground](#)** — Interactive visualization of sorting algorithms, graph traversal, and complexity (TypeScript / React)  
-- **[IoT Sensor System](#)** — Embedded design for data acquisition and wireless monitoring (C / Verilog)  
+<div align="center">
 
-> Pin 3–6 repositories you want recruiters to see first, aligned with these descriptions.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahlia1384&show_icons=true&rank_icon=github&hide_border=true&height=150)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlia1384&layout=compact&hide_border=true&height=150)
 
----
-
-## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dahlia1384&show_icons=true&rank_icon=github&hide_border=true" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahlia1384&layout=compact&hide_border=true" alt="top-langs" height="160"/>
-</p>
+</div>
 
 ---
 
-## Connect
-- LinkedIn: [Dahlia Mohammadi](https://www.linkedin.com/in/dahlia-mohammadi-5380762a9/)  
-- Email: mohammadi.dahlia@gmail.com  
+<div align="center">
+  <i>Open to collaboration on projects that combine algorithms, AI, and embedded systems.</i>
+</div>
 
-<p align="center">Open to collaboration on projects at the intersection of algorithms, AI, and systems engineering.</p>
