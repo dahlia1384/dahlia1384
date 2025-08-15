@@ -31,7 +31,7 @@ I am particularly interested in how numerical methods, optimization, and machine
 
 ---
 
-### Featured Projects
+### Future Projects I Plan to Work On 
 
 #### **[Numerical Methods Toolkit](#)**
 A collection of algorithms for root finding, ODE solving, and linear algebra. Implemented in C++ and Python for high-performance scientific computing.
